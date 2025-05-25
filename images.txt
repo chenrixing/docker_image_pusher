@@ -4,4 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nginx:1.25.0-alpine
-gitlab/gitlab-runner:alpine3.18-bleeding
+#gitlab/gitlab-runner:alpine3.18-bleeding
+maven:3.8.6-openjdk-11
