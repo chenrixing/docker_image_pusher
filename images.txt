@@ -6,4 +6,5 @@
 #nginx:1.25.0-alpine
 #gitlab/gitlab-runner:alpine3.18-bleeding
 #maven:3.8.6-openjdk-11
-gitlab/gitlab-runner-helper:alpine3.18-x86_64-v18.0.1
+#gitlab/gitlab-runner-helper:alpine3.18-x86_64-v18.0.1
+registry.gitlab.com/security-products/gitlab-advanced-sast:1
